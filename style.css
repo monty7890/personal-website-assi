@@ -1,0 +1,127 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.part-1{
+    height: 500px;
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: left; 
+    background-size: cover;
+    background-position: center;
+}
+.part-2{
+    height: 500px;
+   background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    background-position: center;
+    
+}
+.part-3{
+    height: 500px;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    background-position: center;
+    
+}
+.part-4{
+    height: 500px;
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    background-position: center;
+    
+}
+.half-side{
+    max-width: 40%;
+    float: left;
+    padding-left: 100px;
+}
+.pic-1{
+    width: 570px;
+    float: right;
+}
+.color-text{
+ color: aqua;
+ font-weight: bold;
+ font-size: 40px;
+ padding: 20px 0px;
+}
+h1{
+    padding: 135px 0 0 0;
+}
+.button-1{
+    background: linear-gradient(225deg,rgb(211, 0, 24),rgb(231, 58, 87));
+    border-radius: 5px;
+    padding:10px 20px;
+    border: 0px;
+    color:aliceblue;
+}
+.button-2{
+    background: linear-gradient(45deg,aqua,rgb(9, 135, 219));
+    border-radius: 5px;
+    padding:10px 20px;
+    border: 0px;
+    color:aliceblue;
+    margin-bottom: 190px;
+}
+.button-3{
+    background: linear-gradient(225deg,rgb(211, 0, 24),rgb(231, 58, 87));
+    border-radius: 5px;
+    border: 0px;
+    color:aliceblue;
+    padding:20px 100px;
+   margin-left: 600px;
+}
+
+p{
+    color: darkslategray;
+   padding: 20px 0px;
+}
+.col-1{
+    width: 25%;
+    height: 100%;
+    float: left;
+    margin-left: 130px;
+}
+.col-2{
+    width: 25%;
+    height: auto;
+    float: left;
+    margin: 0 30px;
+}
+.col-3{
+    width: 25%;
+    height: auto;
+    float: left;
+    margin-right: 130px;
+}
+h3{
+    text-align: center;
+    margin-top: 15px;
+}
+h6{
+    text-align: center;
+    color: dimgray;
+    margin: 20px 0 50px 0;
+    
+}
+button a{
+    text-decoration: none;
+    color: thistle;
+}
+section{
+    height: ;
+    padding-bottom: 200px;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
